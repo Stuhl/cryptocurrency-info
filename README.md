@@ -2,4 +2,4 @@
 Gives you a overview of how far cryptocurrency has come
 
 Just a simple static site :)
-You can access it here: [Stuhl.github.io/cryptocurrency-info](Stuhl.github.io/cryptocurrency-info)
+You can access it here: [Stuhl.github.io/cryptocurrency-info](https://stuhl.github.io/cryptocurrency-info/)
